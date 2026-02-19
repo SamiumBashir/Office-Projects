@@ -5,3 +5,8 @@
  Throughout the course, I completed hands-on challenges and built functional mini-projects that strengthened my front-end skills step by step.
 
  This repository showcases my progress and highlights the practical experience I gained while turning concepts into real, responsive webpages.
+
+ # Projects
+ |Project Name | Live Link                              | Source Code                                      | Repo                                             |
+ |-------------|----------------------------------------|--------------------------------------------------|--------------------------------------------------|
+ |Bono         | [Live](https://bono-apps.netlify.app/) | [View](https://github.com/SamiumBashir/Bono-App) | [View](https://github.com/SamiumBashir/Bono-App) |
