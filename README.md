@@ -9,4 +9,6 @@
  # Projects
  |Project Name | Live Link                              | Source Code                                      | Repo                                             |
  |-------------|----------------------------------------|--------------------------------------------------|--------------------------------------------------|
+ |Lumina         | [Live](https://lumina-creative-beta.vercel.app) | [View](https://lumina-creative-beta.vercel.app) | [View](https://lumina-creative-beta.vercel.app) |
+ |-------------|----------------------------------------|--------------------------------------------------|--------------------------------------------------|
  |Bono         | [Live](https://bono-app.vercel.app) | [View](https://bono-app.vercel.app) | [View](https://bono-app.vercel.app) |
