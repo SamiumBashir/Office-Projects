@@ -9,4 +9,4 @@
  # Projects
  |Project Name | Live Link                              | Source Code                                      | Repo                                             |
  |-------------|----------------------------------------|--------------------------------------------------|--------------------------------------------------|
- |Bono         | [Live](https://bono-apps.netlify.app/) | [View](https://github.com/SamiumBashir/Bono-App) | [View](https://github.com/SamiumBashir/Bono-App) |
+ |Bono         | [Live](https://bono-app.vercel.app) | [View](https://bono-app.vercel.app) | [View](https://bono-app.vercel.app) |
