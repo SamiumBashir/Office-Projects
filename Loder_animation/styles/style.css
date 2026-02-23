@@ -1,0 +1,39 @@
+.container{
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader{
+    height: 85px;
+    width: 85px;
+    position: relative;
+    animation: spin 2s linear infinite;
+}
+
+
+.loader::before,
+.loader::after {
+    content: "";
+    position: absolute;   
+    top: 0;
+    left: 35px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #3498db;
+}
+
+.loader::after{
+    left: -35px;
+    background-color: #e74c3c;
+}
+
+
+@keyframes spin{
+    100% {
+        transform: rotate(360deg)
+    }
+}
