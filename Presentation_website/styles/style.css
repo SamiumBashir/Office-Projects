@@ -82,3 +82,38 @@ body{
         color: #333;
     }
 }
+
+#page-1{
+    h1{
+        transform: translateY(-1200px);
+        animation: headingMove var(--animation-speed) forwards ease-in;
+    }
+
+    p{
+        transform: translateX(-2400px);
+        animation: textMove var(--animation-speed) forwards ease-in;
+    }
+    
+}
+
+@keyframes headingMove{
+    to{
+        transform: translateY(0);
+    }
+}
+
+@keyframes textMove{
+    to {
+        transform: translateX(0);
+    }
+}
+
+@media (max-width:768px){
+    .page h1{
+        font-size: 3rem;
+    }
+
+    .page p{
+        font-size: 1.1rem;
+    }
+}
