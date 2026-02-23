@@ -9,5 +9,5 @@
  # Projects
  |Project Name | Live Link                              | Source Code                                      | Repo                                             |
  |-------------|----------------------------------------|--------------------------------------------------|--------------------------------------------------|
- |Lumina         | [Live](https://lumina-creative-beta.vercel.app) | [View](https://lumina-creative-beta.vercel.app) | [View](https://lumina-creative-beta.vercel.app) |
- |Bono         | [Live](https://bono-app.vercel.app) | [View](https://bono-app.vercel.app) | [View](https://bono-app.vercel.app) |
+ |Lumina         | [Live](https://lumina-creative-beta.vercel.app) | [View](https://github.com/SamiumBashir/Lumina-Creative) | [View](https://github.com/SamiumBashir/Lumina-Creative) |
+ |Bono         | [Live](https://bono-app.vercel.app) | [View](https://github.com/SamiumBashir/Bono-App) | [View](https://github.com/SamiumBashir/Bono-App) |
