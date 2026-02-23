@@ -92,37 +92,29 @@ li{
 }
 
 .btn{
+    display: block;
     background-color: #fff;
-    color: #aa3f5f;
+    color: #27264b;
     border-radius: 5px;
     border: 1px solid #27264b;
     padding: 15px;
+    width: 100%;
     cursor: pointer;
     font-size: 16px;
     margin-bottom: 20px;
 }
 
+.btn-primary,
 .btn:hover{
     background-color: #27264b;
-}
-.btn:hover a{
     color: #fff;
 }
 
-.btn-primary{
-    background-color: #27264b;
-}
 .btn-primary:hover{
     background-color: #fff;
-}
-
-.btn-primary a{
-    color: #fff;
-}
-
-.btn-primary:hover a{
     color: #27264b;
 }
+
 
 .card ul{
     text-align: left;
