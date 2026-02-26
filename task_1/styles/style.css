@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.rectangle{
+    width: 600px;
+    height: 360px;
+    background: #008000;
+    position: relative;
+}
+
+.circle{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background: #FF0000;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    z-index: 12;
+}
+
+p{
+    font-size: 1.5rem;
+    font-weight: 600z;
+    margin-top: 30px;
+}
