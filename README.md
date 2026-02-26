@@ -9,6 +9,8 @@
  # Projects
  |Project Name | Live Link                              | Source Code                                      | Repo                                             |
  |-------------|----------------------------------------|--------------------------------------------------|--------------------------------------------------|
+ |Leno     | [live](https://leno-pszcvdjwm-samiumbashirs-projects.vercel.app/)| [View](https://github.com/SamiumBashir/Leno-)   |[View](https://github.com/SamiumBashir/Leno-)
+ |Tutor    | [Live](https://tutor-web-rho.vercel.app/)|[View](https://github.com/SamiumBashir/Tutor-Website)    |[View](https://github.com/SamiumBashir/Tutor-Website)  |
  |Lumina         | [Live](https://lumina-creative-beta.vercel.app) | [View](https://github.com/SamiumBashir/Lumina-Creative) | [View](https://github.com/SamiumBashir/Lumina-Creative) |
  |Bono         | [Live](https://bono-app.vercel.app) | [View](https://github.com/SamiumBashir/Bono-App) | [View](https://github.com/SamiumBashir/Bono-App) |
- |Tutor    | [Live](https://tutor-web-rho.vercel.app/)|[View](https://github.com/SamiumBashir/Tutor-Website)    |[View](https://github.com/SamiumBashir/Tutor-Website)  |
+ 
